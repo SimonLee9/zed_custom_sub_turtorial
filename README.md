@@ -7,4 +7,4 @@ The complete documentation is available on the [Stereolabs website](https://www.
 
 ---
 
-path : catkin_ws/src/zed-ros-examples/tutorials/zed_custom_sub_tutorial/cfg
+sett up path : catkin_ws/src/zed-ros-examples/tutorials/zed_custom_sub_tutorial/cfg
